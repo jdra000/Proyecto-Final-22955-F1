@@ -4,6 +4,8 @@
 
 En situaciones de emergencia, como huracanes o inundaciones, la evacuación oportuna y efectiva es crucial para salvaguardar vidas. En el estado de Florida (Estados Unidos), las carreteras principales juegan un papel vital en trasladar a las personas desde zonas de riesgo hacia áreas seguras. Sin embargo, durante una evacuación inmediata, el flujo vehicular combinado de evacuados y residentes de zonas con menor riesgo de ser afectadas, aumenta considerablemente, llegando incluso al punto de sobrepasar el volumen de tráfico permitido por autopistas y generar colapso. Este proyecto busca abordar este desafío mediante el cálculo del flujo máximo que pueden soportar estas rutas clave. Con base en datos de tráfico ajustados, la herramienta permite identificar cuellos de botella y proporciona información valiosa para que los responsables de la evacuación optimicen la distribución de vehículos, asegurando así una salida más eficiente y reduciendo el riesgo de obstrucciones críticas.
 
+![Texto Alt](map.jpg)
+
 ## ¿Por qué escogimos esta zona? 
 
 Escogimos Florida, específicamente el condado de Collier, debido a su alta vulnerabilidad a desastres naturales, especialmente huracanes, que obligan a realizar evacuaciones de carácter rápido y masivo de zonas costeras y urbanas.
